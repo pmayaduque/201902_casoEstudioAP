@@ -1,0 +1,7 @@
+beautifulsoup4
+pandas
+selenium
+spacy
+vaderSentiment
+textblob
+chromedriver-binary==74.0.3729.6.0
